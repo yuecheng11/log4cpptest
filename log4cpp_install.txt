@@ -34,5 +34,3 @@
 	  # ldcondfig
 	
 
- 4. log4cpp学习
-	http://blog.csdn.net/liuhong135541/article/category/1496383
